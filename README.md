@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JMorenoMartagon
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email morenomartagonjavier@gmail.com
+
+- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/fco-javier-moreno-747408204/
 
 <!---
 JMorenoMartagon/JMorenoMartagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
